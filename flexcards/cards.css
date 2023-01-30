@@ -1,0 +1,41 @@
+.cards {
+    width: 100%;
+    /* */
+    padding: 8vh 0;
+    
+    background: var(--mid-color);
+    
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+
+}
+
+.cards section {
+    flex: 0 1 300px;
+    align-self: stretch;
+
+    background: var(--light-color);
+
+    border-radius: 5px;
+    box-shadow: 3px 3px 10px rgba(50,50,50, 0.7); 
+
+    padding: 1.5rem;
+
+}
+
+.cards p{
+    font-size: small;
+    margin: 1.5rem;
+}
+
+.cards h3{
+    font-size: x-large;
+    font-family: var(--brand-font);
+    color: var(--mid-color);
+}
+
+.cards span{
+    color: var(--brand-color);
+}
