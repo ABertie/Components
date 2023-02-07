@@ -4,6 +4,8 @@
     --mid-color: #E5E7EB;
     --light-color: #F8FAFC;
 
+    --shadow: 3px 3px 10px rgba(50,50,50, 0.7);
+
     --base-font: Verdana, Geneva, Tehoma, sans-serif;
     --brand-font: Cambris, Cochin, Georgia, Timea, 'Times New Roman', serif;
 }

@@ -19,7 +19,7 @@
     background: var(--light-color);
 
     border-radius: 5px;
-    box-shadow: 3px 3px 10px rgba(50,50,50, 0.7); 
+    box-shadow: var(--shadow); 
 
     padding: 1.5rem;
 
